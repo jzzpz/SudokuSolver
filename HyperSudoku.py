@@ -2,7 +2,7 @@
 
 #1111111 (new branch)
 # added this new line here
-=======
+
 #1111111 (new branch) (abc)
 # added this line from master
 
