@@ -1,6 +1,11 @@
+
+# added from btanch abc
+
+
+
+
 # A few test cases are provided in Test.py.
-# adding this line from branch temp
-# added this second line from branch temp
+
 # for 9x9 grid solver
 class HyperSudoku:
 
